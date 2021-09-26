@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background: black;
+  color: yellowgreen;
+}
+h2 {
+  color: yellow;
+  font-family: "Space Mono", monospace;
+}
+p {
+  font-family: "Space Mono", monospace;
+}
+h3 {
+  font-family: "Space Mono", monospace;
+}
+input {
+  font-family: "Space Mono", monospace;
+  border: 1.5px solid white;
+  background: yellowgreen;
+}
