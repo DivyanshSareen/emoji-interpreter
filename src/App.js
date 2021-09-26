@@ -9,7 +9,10 @@ var dict = {
   "👌": "OK",
   "👀": "Eyes",
   "👑": "Crown",
-  "🧛": "Vampire"
+  "🧛": "Vampire",
+  "🥴": "Woozy",
+  "🙀": "Weary Cat",
+  "🚶": "Person Walking"
 };
 
 // list of keys from dict object
